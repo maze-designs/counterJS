@@ -1,0 +1,12 @@
+{
+  "name": "lyft-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bun-utilities": "^0.1.5",
+    "global": "^4.4.0",
+    "jshint": "^2.13.5",
+    "simple-json-db": "^2.0.0"
+  }
+}
